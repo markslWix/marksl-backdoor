@@ -1,0 +1,19 @@
+{
+  "name": "marksl-backdoor",
+  "version": "1.0.0",
+  "description": "THIS IS A REPO FOR SECURITY TESTING, DO NOT INSTALL (RCE)!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markslWix/marksl-backdoor.git"
+  },
+  "author": "marksl@wix.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markslWix/marksl-backdoor/issues"
+  },
+  "homepage": "https://github.com/markslWix/marksl-backdoor#readme"
+}
